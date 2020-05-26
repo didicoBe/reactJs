@@ -1,0 +1,24 @@
+.produtoUnico{
+    max-width: 700px;
+    margin-top: 20px auto 0;
+    padding:  20px;
+    background: #fff;
+    border-radius: 15px;
+    border: 1px solid #ddd;
+}
+
+.produtoUnico h1{
+    font-size: 32px;
+
+}
+
+.produtoUnico p{
+    color: #666666;
+    line-height: 24px;
+    margin-top: 5px;
+}
+
+.produtoUnico p a{
+    color: #069;
+
+}
